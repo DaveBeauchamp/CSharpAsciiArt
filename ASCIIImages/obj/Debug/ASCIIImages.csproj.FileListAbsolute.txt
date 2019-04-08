@@ -1,0 +1,12 @@
+C:\Users\Lazy\source\repos\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.csprojAssemblyReference.cache
+C:\Users\Lazy\source\repos\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.csproj.CoreCompileInputs.cache
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\bin\Debug\ASCIIImages.exe.config
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\bin\Debug\ASCIIImages.exe
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\bin\Debug\ASCIIImages.pdb
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.csprojAssemblyReference.cache
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.csproj.CoreCompileInputs.cache
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.csproj.CopyComplete
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.exe
+C:\GitRepos\Zprojects\ASCIIImages\ASCIIImages\obj\Debug\ASCIIImages.pdb
